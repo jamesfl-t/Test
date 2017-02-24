@@ -18,5 +18,6 @@
 
 
 <?php
+//programa para hacer pruebas
 	include_once('cierre.php');
 ?>
